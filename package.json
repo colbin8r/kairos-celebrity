@@ -1,0 +1,26 @@
+{
+  "name": "kairos-celebrity",
+  "version": "1.0.0",
+  "description": "Script to upload a Microsoft celebrity database to a Kairos gallery",
+  "main": "index.js",
+  "dependencies": {
+    "bl": "^1.2.0",
+    "colors": "^1.1.2",
+    "minimist": "^1.2.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colbin8r/kairos-celebrity.git"
+  },
+  "author": "Colby Rogness (colbyrogness@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colbin8r/kairos-celebrity/issues"
+  },
+  "homepage": "https://github.com/colbin8r/kairos-celebrity#readme"
+}
